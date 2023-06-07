@@ -19,6 +19,7 @@ header {
 }    
 
 img {
+
     position: relative;
     width: 280px;
     border-radius: 100%;
@@ -27,9 +28,8 @@ img {
 
 
 header > p {
-
+    
     font-size: 1.2em;
-    color: white;
     max-width: 600px;
     padding-right: 10px;
     padding-left: 10px;
@@ -46,6 +46,7 @@ nav {
 }
 
 nav > a {
+
     color: white;
     padding: 10px;
     border-radius: 8px;
