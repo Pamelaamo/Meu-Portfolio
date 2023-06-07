@@ -62,10 +62,16 @@ main {
     margin: auto;
     margin-bottom: 30px;
     padding: 20px;
-    background-color: white;
+    background-color: cornsilk;
     box-shadow: 0px, 0px 10px rgba(0, 0, 0, 0.425);
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
+    
+}
+
+.sobre {
+    background-color: aqua;
+    border-radius: 10px;
     
 }
 
