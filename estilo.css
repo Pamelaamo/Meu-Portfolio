@@ -85,6 +85,79 @@ main {
 
 
 
+.siteum {
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    border-radius: 100%;
+    position: relative;
+    left: 110px;
+    top: 70px;
+    
+
+}
+
+.sitedois {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(99, 36, 136);
+    border-radius: 100px;
+    position: relative;
+    left: 110px;
+    top: 110px;
+}
+
+.sitetres {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(192, 233, 8);
+    border-radius: 100px;
+    position: relative;
+    left: 400px;
+    bottom: 330px;
+}
+
+.sitequatro {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(132, 115, 163);
+    border-radius: 100px;
+    position: relative;
+    left: 400px;
+    bottom: 290px;
+}
+
+.sitecinco {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(214, 37, 37);
+    border-radius: 100px;
+    position: relative;
+    left: 690px;
+    bottom: 733px;
+}
+
+.siteseis {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(209, 129, 9);
+    border-radius: 100px;
+    position: relative;
+    left: 690px;
+    bottom: 690px;
+    
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin: 0px;
+    padding: 10px;
+}
+
+
+
 
 
 
