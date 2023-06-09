@@ -27,6 +27,37 @@ img {
 
 
 
+#grupo {
+    display: flex; 
+}
+
+.box {
+    padding: 4rem;
+}
+
+.box-um {
+    background-color: pink;
+    padding: 4rem;
+    
+
+}
+
+.box-dois {
+    background-color: rebeccapurple;
+    padding: 4rem;
+}
+
+.box-tres {
+    background-color: #8C503A;
+    padding: 4rem;
+}
+
+.box-quatro {
+    background-color: aqua;
+    padding: 4rem;
+}
+
+
 header > p {
     
     font-size: 1.2em;
