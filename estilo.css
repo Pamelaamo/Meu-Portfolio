@@ -78,11 +78,16 @@ main {
 .combo {
     text-align: center;
     background-color: black;
-    margin:0px;
+    margin:0%;
     position: relative;
     top: 20px;
 }
 
+.grupo {
+    width: 200px;
+    height: 200px;
+
+}
 
 
 .siteum {
