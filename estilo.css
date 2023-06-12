@@ -28,11 +28,14 @@ img {
 
 
 #grupo {
-    display: flex; 
+    display: flex;
+    
+    
 }
 
 .box {
     padding: 4rem;
+    
 }
 
 .box-um {
@@ -56,6 +59,17 @@ img {
     background-color: aqua;
     padding: 4rem;
 }
+
+.box-cinco {
+    background-color: rgb(54, 110, 110);
+    padding: 4rem;
+}
+
+.box-seis {
+    background-color: rgb(24, 109, 13);
+    padding: 4rem;
+}
+
 
 
 header > p {
