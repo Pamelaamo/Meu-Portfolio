@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: #8C503A;
+    background-color: rgba(255, 255, 0, 0.486);
 }
 
 header {
@@ -32,11 +32,13 @@ img {
     display: grid;
     grid-template-rows: 1fr 1fr;
     grid-template-columns: 1fr 1fr;
-    width: 360px;
+    width: 500px;
+    height: 500px;
     grid-gap: 50px;
     margin: auto;
     padding-top: 60px;
     padding-bottom: 40px;
+    
        
     
     
@@ -120,17 +122,24 @@ main {
 }
 
 .sobre {
-    background-color: aqua;
+    
     border-radius: 10px;
+    padding: 20px;
+    
     
 }
 
 .combo {
     text-align: center;
     background-color: black;
-    margin:0%;
-    position: relative;
-    top: 20px;
+    border-radius: 10px;
+      
+}
+
+h2 {
+    text-align: center;
+    padding: 20px;
+    font-size: 50px;
 }
 
 
@@ -138,8 +147,8 @@ footer {
     text-align: center;
     background-color: black;
     color: white;
-    margin: 0px;
     padding: 20px;
+    border-radius: 10px;
 }
 
 
