@@ -20,7 +20,7 @@ header {
 
 header > h1 {
     position: relative;
-    top: 250px;
+    top: 280px;
     font-size: 60px;
     color: white;
 }
@@ -44,21 +44,6 @@ img {
     
 }
 
-#grid-grupo {
-    
-    display: grid;
-    grid-template-rows: 1fr 1fr;
-    grid-template-columns: 1fr 1fr;
-    width: 500px;
-    height: 500px;
-    grid-gap: 50px;
-    margin: auto;
-    padding-top: 60px;
-    padding-bottom: 40px; 
-    
-}
-
-
 nav {
     background-color: black;
     padding: 10px;
@@ -76,7 +61,6 @@ nav > a {
     transition-duration: .5s;
 }
 
-
 main {
     min-width: 300px;
     max-width: 1000px;
@@ -90,25 +74,31 @@ main {
     
 }
 
+
 .sobre {
     
     border-radius: 10px;
-    padding: 20px;
-    
-    
-}
-
-.combo {
-    text-align: center;
-    background-color: black;
-    border-radius: 10px;
-      
+    padding: 40px;
 }
 
 h2 {
     text-align: center;
     padding: 20px;
     font-size: 50px;
+}
+
+#grid-grupo {
+    
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    width: 500px;
+    height: 500px;
+    grid-gap: 50px;
+    margin: auto;
+    padding-top: 60px;
+    padding-bottom: 40px; 
+    
 }
 
 .box-um {
