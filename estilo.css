@@ -11,13 +11,18 @@ body {
 }
 
 header {
-    background-image:url(
-    );
+    background-image: url(img-not1.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size:cover;
+    background-color: rgba(0, 0, 0, 0.322);
+    z-index: 1;
      min-height: 150px;
      text-align: center;
      padding-top: 80px;
     
-}    
+} 
+
 
 header > h1 {
     position: relative;
@@ -36,6 +41,8 @@ header > p {
     padding-bottom: 30px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.616);
 }
+
+
 
 img {
     position: relative;
