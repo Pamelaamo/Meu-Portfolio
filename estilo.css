@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: rgba(255, 255, 0, 0.486);
+    background-color:#353740;
 }
 
 header {
@@ -75,72 +75,79 @@ main {
     margin: auto;
     margin-bottom: 30px;
     padding: 20px;
-    background-color: cornsilk;
+    background-color:#F2B47E;
     box-shadow: 0px, 0px 10px rgba(0, 0, 0, 0.425);
-    border-bottom-left-radius: 10px;
-    border-bottom-right-radius: 10px;
-    
 }
 
-
-.sobre {
-    
-    border-radius: 10px;
-    padding: 40px;
-}
 
 h2 {
     text-align: center;
-    padding: 20px;
-    font-size: 50px;
+    padding: 10px;
+    font-size: 30px;
     background-color: black;
     color: white;
 }
 
+.sobre {
+    background-color: black;
+    color: white;
+    text-align:center;
+    padding-bottom: 10px;
+  
+}
+
 #grid-grupo {
-    
     display: grid;
     grid-template-rows: 1fr 1fr;
     grid-template-columns: 1fr 1fr;
     width: 400px;
     height: 400px;
-    grid-gap: 50px;
+    grid-gap: 40px;
     margin: auto;
-    padding-top: 60px;
-    padding-bottom: 120px; 
+    padding-top: 50px;
+    padding-bottom: 180px; 
+    background-color: aqua;
+    
+    
     
     
 }
 
 .box-um {
-    background-color: pink;
+    background-color: #353740;
     padding: 4rem;
-
+    color: white;
 }
 
 .box-dois {
-    background-color: rebeccapurple;
+    background-color: #353740;
     padding: 4rem;
+    color: white;
 }
 
+
 .box-tres {
-    background-color: #8C503A;
+    background-color: #353740;
     padding: 4rem;
+    color: white;
 }
 
 .box-quatro {
-    background-color: aqua;
+    background-color: #353740;
     padding: 4rem;
+    color: white;
 }
 
 .box-cinco {
-    background-color: rgb(54, 110, 110);
+    background-color: #353740;
     padding: 4rem;
+    color: white;
 }
 
 .box-seis {
-    background-color: rgb(24, 109, 13);
+    background-color: #353740;
     padding: 4rem;
+    color: white;
 }
 
 
