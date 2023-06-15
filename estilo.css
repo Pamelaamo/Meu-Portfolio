@@ -104,12 +104,12 @@ h2 {
 
         50% {
             opacity: 10;
-            transform: translateX(900px);
+            transform: translateX(500px);
         }
 
         100% {
             opacity: 1;
-            transform: translateX(400px);
+            transform: translateX(200px);
         }
 
 }
