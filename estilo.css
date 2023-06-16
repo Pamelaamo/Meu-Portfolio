@@ -75,25 +75,30 @@ main {
     margin: auto;
     margin-bottom: 30px;
     padding: 20px;
-    background-color:#F2B47E;
+    background-color:white;
     box-shadow: 0px, 0px 10px rgba(0, 0, 0, 0.425);
 }
 
+#seçao-principal {
+    font-size: 20px;
+    padding: 12px;
+}
+
+
+.sobre > p {
+    text-align:center;
+    color: black; 
+    padding: 20px;
+  
+}
 
 h2 {
     text-align: center;
-    padding: 10px;
+    padding: 5px;
     font-size: 30px;
     background-color: black;
     color: white;
-}
-
-.sobre {
-    background-color: black;
-    color: white;
-    text-align:center;
-    padding-bottom: 10px;
-  
+    
 }
 
 @keyframes mover {
