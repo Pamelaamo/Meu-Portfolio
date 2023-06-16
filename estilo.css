@@ -3,7 +3,6 @@
 *{
     margin: 0px;
     padding: 0px;
-
 }
 
 body {
@@ -23,7 +22,6 @@ header {
     
 } 
 
-
 header > h1 {
     position: relative;
     top: 280px;
@@ -42,8 +40,6 @@ header > p {
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.616);
 }
 
-
-
 img {
     position: relative;
     bottom: 100px;
@@ -60,7 +56,6 @@ nav {
 }
 
 nav > a {
-
     color: white;
     padding: 10px;
     border-radius: 8px;
@@ -98,7 +93,6 @@ h2 {
     font-size: 30px;
     background-color: black;
     color: white;
-    
 }
 
 @keyframes mover {
@@ -121,7 +115,7 @@ h2 {
 
 .mover > img {
     position: relative;
-    top: 25px;
+    bottom: 2px;
     width: 100px;
     height: 100px;
     animation-name: mover;
@@ -142,15 +136,22 @@ h2 {
     grid-gap: 40px;
     margin: auto;
     padding-top: 50px;
-    padding-bottom: 180px; 
+    padding-bottom: 170px;
+    background-color: rgb(199, 195, 195);
+    
     
     
 }
 
 .box-um {
     background-color: #353740;
-    padding: 4rem;
+    text-align: center;
     color: white;
+}
+.box-um > p {
+    position: relative;
+    top: 55px;
+    background-color: black;
 }
 
 .box-dois {
@@ -190,7 +191,6 @@ footer {
     background-color: black;
     color: white;
     padding: 20px;
-    border-radius: 10px;
 }
 
 
