@@ -151,48 +151,58 @@ h2 {
 .box-um {
     background-color: #353740;
     text-align: center;
-    color: white;
 }
 #foto-caderno {
     position: relative;
+    top: 5px;
     width: 150px;
     height: 150px;
-}
-.box-um > p {
-    position: relative;
-    top: 55px;
-    background-color: black;
 }
 
 .box-dois {
     background-color: #353740;
-    padding: 4rem;
-    color: white;
+    text-align: center;
 }
-
+#pessoas-falando {
+    position: relative;
+    top: 5px;
+    width: 150px;
+    height: 150px;
+}
 
 .box-tres {
     background-color: #353740;
-    padding: 4rem;
-    color: white;
+    text-align: center;  
+}
+#mulher-pensante {
+    position: relative;
+    top: 5px;
+    width: 150px;
+    height: 150px;
+}
+#mente-com-ideias {
+    position: relative;
+    top: 5px;
+    width: 150px;
+    height: 150px;
 }
 
 .box-quatro {
     background-color: #353740;
-    padding: 4rem;
-    color: white;
+    text-align: center;
+    
 }
 
 .box-cinco {
     background-color: #353740;
-    padding: 4rem;
-    color: white;
+    text-align: center;
+    
 }
 
 .box-seis {
     background-color: #353740;
-    padding: 4rem;
-    color: white;
+    text-align: center;
+    
 }
 
 
