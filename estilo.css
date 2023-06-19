@@ -95,7 +95,7 @@ h2 {
 }
 
 .mover {
-    background-color: aqua;
+    background-image:linear-gradient(to right, rgb(48, 47, 47), white);
 }
 
 @keyframes mover {
@@ -130,6 +130,15 @@ h2 {
       
 }
 
+.habilidades {
+    font-family: 'Courier New', Courier, monospace;
+    position: relative;
+    top: 250px;
+    text-align: center;
+    font-size: 25px;
+    background-color: rgb(203, 205, 206);
+}
+
 #grid-grupo {
     display: grid;
     grid-template-rows: 1fr 1fr;
@@ -140,10 +149,7 @@ h2 {
     margin: auto;
     position: relative;
     top: 280px;
-    
-   
-
-    
+      
 }
     /* section com divs */
 .box-um {
