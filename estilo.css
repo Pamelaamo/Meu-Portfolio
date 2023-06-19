@@ -97,6 +97,10 @@ h2 {
     color: white;
 }
 
+.mover {
+    background-color: aqua;
+}
+
 @keyframes mover {
       0%  {
             opacity: 2;
@@ -126,7 +130,7 @@ h2 {
     animation-delay: 1s;
     animation-iteration-count: infinite;
     animation-direction: alternate; 
-    
+      
 }
 
 #grid-grupo {
@@ -138,6 +142,8 @@ h2 {
     grid-gap: 40px;
     margin: auto;
     background-color: rgb(199, 195, 195);
+    position: relative;
+    top: 280px;
     
     
 }
@@ -186,6 +192,8 @@ h2 {
 
 
 footer {
+    position: relative;
+    top: 480px;
     text-align: center;
     background-color: black;
     color: white;
