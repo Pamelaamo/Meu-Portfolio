@@ -41,7 +41,7 @@ header > p {
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.616);
 }
 
-img {
+#minha-img {
     position: relative;
     bottom: 100px;
     width: 300px;
@@ -147,11 +147,16 @@ h2 {
     
     
 }
-
+    /* section com divs */
 .box-um {
     background-color: #353740;
     text-align: center;
     color: white;
+}
+#foto-caderno {
+    position: relative;
+    width: 150px;
+    height: 150px;
 }
 .box-um > p {
     position: relative;
