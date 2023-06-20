@@ -81,6 +81,13 @@ main {
     padding: 12px;
 }
 
+h2 {
+    text-align: center;
+    padding: 5px;
+    font-size: 30px;
+    background-color: black;
+    color: white;
+}
 
 .sobre > p {
     text-align:center;
@@ -89,13 +96,6 @@ main {
   
 }
 
-h2 {
-    text-align: center;
-    padding: 5px;
-    font-size: 30px;
-    background-color: black;
-    color: white;
-}
 
 .mover {
     background-image:linear-gradient(to right, rgb(48, 47, 47), white);
