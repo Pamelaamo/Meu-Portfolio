@@ -24,12 +24,14 @@ header {
     padding-top: 80px;
     
 } 
+
 header > h1 {
     position: relative;
     top: 280px;
     font-size: 60px;
     color: white;
 } 
+
 header > p {
     
     font-size: 1.2em;
@@ -40,6 +42,7 @@ header > p {
     padding-bottom: 30px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.616);
 }
+
 /* minha imagem de perfil */
 #minha-img {
     position: relative;
@@ -64,7 +67,6 @@ nav > a {
     font-weight: bold;
     transition-duration: .5s;
 }
-
 
 
 main {
@@ -97,7 +99,6 @@ h2 {
     padding: 20px;
   
 }
-
 
 .mover {
     background-image:linear-gradient(to right, rgb(48, 47, 47), white);
@@ -161,6 +162,7 @@ h2 {
     background-color: #353740;
     text-align: center;
 }
+
 #foto-caderno {
     position: relative;
     top: 2px;
@@ -172,6 +174,7 @@ h2 {
     background-color: #353740;
     text-align: center;
 }
+
 #pessoas-falando {
     position: relative;
     top: 2px;
@@ -183,6 +186,7 @@ h2 {
     background-color: #353740;
     text-align: center;  
 }
+
 #mente-com-ideias {
     position: relative;
     top: 2px;
@@ -194,6 +198,7 @@ h2 {
     background-color: #353740;
     text-align: center; 
 }
+
 #mulher-pensante {
     position: relative;
     top: 2px;
@@ -205,6 +210,7 @@ h2 {
     background-color: #353740;
     text-align: center; 
 }
+
 #grupo-de-pessoas {
     position: relative;
     top: 2px;
@@ -216,13 +222,13 @@ h2 {
     background-color: #353740;
     text-align: center;
 }
+
 #prancheta {
     position: relative;
     top: 2px;
     width: 150px;
     height: 150px;
 }
-
 
 footer {
     position: relative;
