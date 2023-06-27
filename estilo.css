@@ -74,7 +74,7 @@ main {
     max-width: 1000px;
     margin: auto;
     padding: 30px;
-    padding-bottom: 500px;
+    padding-bottom: 800px;
     border-radius: 5px;
     background-color:white;
     box-shadow: 0px, 0px 10px rgba(0, 0, 0, 0.425);
@@ -166,12 +166,19 @@ h2 {
 #foto-caderno {
     position: relative;
     top: 7px;
-    padding: 10px;
+    padding: 5px;
     width: 130px;
     height: 130px;
 }
 #more{
     display:none;
+    color: white;
+}
+#dots {
+    color: white;
+}
+.box-um > p {
+    color: white;
 }
 
 .box-dois {
@@ -236,7 +243,7 @@ h2 {
 
 footer {
     position: relative;
-    top: 480px;
+    top: 780px;
     text-align: center;
     background-color: black;
     color: white;
