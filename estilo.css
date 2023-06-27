@@ -30,6 +30,7 @@ header > h1 {
     top: 280px;
     font-size: 60px;
     color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 } 
 
 header > p {
@@ -46,7 +47,7 @@ header > p {
 /* minha imagem de perfil */
 #minha-img {
     position: relative;
-    bottom: 100px;
+    bottom: 170px;
     width: 300px;
     border-radius: 100%;
     
