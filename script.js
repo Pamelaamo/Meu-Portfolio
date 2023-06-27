@@ -1,5 +1,5 @@
 function myFunction() {
-    var dots = document.getElementById("dots");
+    var dots = document.getElementById("mais");
     var moreText = document.getElementById("more");
     var btnText = document.getElementById("myBtn");
   
@@ -9,7 +9,7 @@ function myFunction() {
       moreText.style.display = "none";
     } else {
       dots.style.display = "none";
-      btnText.innerHTML = "Read less";
+      btnText.innerHTML = "Leia menos";
       moreText.style.display = "inline";
     }
   }
