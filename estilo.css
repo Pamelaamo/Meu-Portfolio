@@ -74,7 +74,7 @@ main {
     max-width: 1000px;
     margin: auto;
     padding: 30px;
-    padding-bottom: 800px;
+    padding-bottom: 850px;
     border-radius: 5px;
     background-color:white;
     box-shadow: 0px, 0px 10px rgba(0, 0, 0, 0.425);
@@ -311,7 +311,7 @@ h2 {
 
 footer {
     position: relative;
-    top: 780px;
+    top: 815px;
     text-align: center;
     background-color: black;
     color: white;
