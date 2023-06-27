@@ -169,6 +169,9 @@ h2 {
     width: 150px;
     height: 150px;
 }
+#more{
+    display: none;
+}
 
 .box-dois {
     background-color: #353740;
