@@ -149,9 +149,9 @@ h2 {
     display: grid;
     grid-template-rows: 1fr 1fr;
     grid-template-columns: 1fr 1fr;
-    width: 400px;
-    height: 400px;
-    grid-gap: 40px;
+    width: 370px;
+    height: 370px;
+    grid-gap: 30px;
     margin: auto;
     position: relative;
     top: 280px;
@@ -192,7 +192,7 @@ h2 {
 
 #pessoas-falando {
     position: relative;
-    top: 2px;
+    top: 7px;
     padding: 5px;
     width: 130px;
     height: 130px;
@@ -217,7 +217,7 @@ h2 {
 
 #mente-com-ideias {
     position: relative;
-    top: 2px;
+    top: 7px;
     padding: 5px;
     width: 130px;
     height: 130px;
@@ -242,7 +242,7 @@ h2 {
 
 #mulher-pensante {
     position: relative;
-    top: 2px;
+    top: 7px;
     padding: 5px;
     width: 130px;
     height: 130px;
@@ -267,7 +267,7 @@ h2 {
 
 #grupo-de-pessoas {
     position: relative;
-    top: 2px;
+    top: 7px;
     padding: 5px;
     width: 130px;
     height: 130px;
@@ -292,7 +292,7 @@ h2 {
 
 #prancheta {
     position: relative;
-    top: 2px;
+    top: 7px;
     padding: 5px;
     width: 130px;
     height: 130px;
@@ -311,7 +311,7 @@ h2 {
 
 footer {
     position: relative;
-    top: 815px;
+    top: 835px;
     text-align: center;
     background-color: black;
     color: white;
