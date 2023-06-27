@@ -158,6 +158,8 @@ h2 {
       
 }
     /* section com divs */
+
+    /* seção autodidata */
 .box-um {
     background-color: #353740;
     text-align: center;
@@ -170,17 +172,19 @@ h2 {
     width: 130px;
     height: 130px;
 }
-#more{
+#id1{
     display:none;
     color: white;
 }
-#mais {
+#mais1 {
     color: white;
 }
 .box-um > p {
     color: white;
 }
+/* até aqui */
 
+/* seção comunicação */
 .box-dois {
     background-color: #353740;
     text-align: center;
@@ -189,10 +193,23 @@ h2 {
 #pessoas-falando {
     position: relative;
     top: 2px;
-    width: 150px;
-    height: 150px;
+    padding: 5px;
+    width: 130px;
+    height: 130px;
 }
+#id2{
+    display:none;
+    color: white;
+}
+#mais2 {
+    color: white;
+}
+.box-dois> p {
+    color: white;
+}
+/* até aqui */
 
+/* secão criativa */
 .box-tres {
     background-color: #353740;
     text-align: center;  
@@ -201,10 +218,23 @@ h2 {
 #mente-com-ideias {
     position: relative;
     top: 2px;
-    width: 150px;
-    height: 150px;
+    padding: 5px;
+    width: 130px;
+    height: 130px;
 }
+#id3{
+    display:none;
+    color: white;
+}
+#mais3 {
+    color: white;
+}
+.box-tres> p {
+    color: white;
+}
+/* até aqui */
 
+/* seção pensamento */
 .box-quatro {
     background-color: #353740;
     text-align: center; 
@@ -213,10 +243,23 @@ h2 {
 #mulher-pensante {
     position: relative;
     top: 2px;
-    width: 150px;
-    height: 150px;
+    padding: 5px;
+    width: 130px;
+    height: 130px;
 }
+#id4{
+    display:none;
+    color: white;
+}
+#mais4 {
+    color: white;
+}
+.box-quatro> p {
+    color: white;
+}
+/* até aqui */
 
+/* seção equipe */
 .box-cinco {
     background-color: #353740;
     text-align: center; 
@@ -225,10 +268,23 @@ h2 {
 #grupo-de-pessoas {
     position: relative;
     top: 2px;
-    width: 150px;
-    height: 150px;
+    padding: 5px;
+    width: 130px;
+    height: 130px;
 }
+#id5{
+    display:none;
+    color: white;
+}
+#mais5{
+    color: white;
+}
+.box-cinco> p {
+    color: white;
+}
+/* até aqui */
 
+/* seção gerenciamento */
 .box-seis {
     background-color: #353740;
     text-align: center;
@@ -237,9 +293,21 @@ h2 {
 #prancheta {
     position: relative;
     top: 2px;
-    width: 150px;
-    height: 150px;
+    padding: 5px;
+    width: 130px;
+    height: 130px;
 }
+#id6{
+    display:none;
+    color: white;
+}
+#mais6 {
+    color: white;
+}
+.box-seis> p {
+    color: white;
+}
+/* até aqui */
 
 footer {
     position: relative;
