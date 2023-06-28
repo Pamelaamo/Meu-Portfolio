@@ -47,7 +47,7 @@ header > p {
 /* minha imagem de perfil */
 #minha-img {
     position: relative;
-    bottom: 160px;
+    bottom: 180px;
     width: 350px;
     border-radius: 100%;
     
@@ -86,7 +86,7 @@ main {
     padding: 12px;
 }
 
-h2 {
+.sobre > h2 {
     text-align: center;
     padding: 5px;
     font-size: 30px;
@@ -135,6 +135,13 @@ h2 {
     animation-iteration-count: infinite;
     animation-direction: alternate; 
       
+}
+.nivel > h2 {
+    position: relative;
+    top: 20px;
+    color: black;
+
+
 }
 .container {
     width: 100%;
