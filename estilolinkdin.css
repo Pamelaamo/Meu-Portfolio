@@ -11,3 +11,28 @@
 body {
     background-color: #353740;
 }
+
+nav {
+    background-color: black;
+    padding: 20px;
+    box-shadow: 0px 7px 9px rgba(0, 0, 0, 0.466);
+    text-align: center;
+}
+
+nav > a {
+   
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    font-weight: bold;
+    transition-duration: .5s;
+   
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    padding: 50px;
+    text-align: center;
+    font-size: 5rem;
+}
