@@ -206,7 +206,7 @@ main {
     grid-gap: 20px;
     margin: auto;
     position: relative;
-    top: 180px;
+    top: 150px;
       
 }
     /* section com divs */
@@ -225,10 +225,6 @@ main {
     height: 130px;
 }
 #id1{
-    display:none;
-    color: white;
-}
-#mais1 {
     color: white;
 }
 
@@ -255,12 +251,9 @@ main {
     height: 130px;
 }
 #id2{
-    display:none;
     color: white;
 }
-#mais2 {
-    color: white;
-}
+
 .box-dois> p {
     color: white;
 }
@@ -280,12 +273,10 @@ main {
     height: 130px;
 }
 #id3{
-    display:none;
+    
     color: white;
 }
-#mais3 {
-    color: white;
-}
+
 .box-tres> p {
     color: white;
 }
@@ -305,12 +296,9 @@ main {
     height: 130px;
 }
 #id4{
-    display:none;
     color: white;
 }
-#mais4 {
-    color: white;
-}
+
 .box-quatro> p {
     color: white;
 }
@@ -330,12 +318,11 @@ main {
     height: 130px;
 }
 #id5{
-    display:none;
     color: white;
 }
-#mais5{
+/* #mais5{
     color: white;
-}
+} */
 .box-cinco> p {
     color: white;
 }
@@ -355,12 +342,10 @@ main {
     height: 130px;
 }
 #id6{
-    display:none;
     color: white;
+
 }
-#mais6 {
-    color: white;
-}
+
 .box-seis> p {
     color: white;
 }
