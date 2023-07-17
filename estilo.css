@@ -231,6 +231,11 @@ main {
 #mais1 {
     color: white;
 }
+
+.blue {
+    color: rgb(58, 146, 234);
+   
+}
 .box-um > p {
     color: white;
 }
