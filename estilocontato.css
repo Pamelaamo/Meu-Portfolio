@@ -50,7 +50,7 @@ main {
 #email {
     position: relative;
     left: 23px;
-    top: 100px;
+    top: 58px;
     width: 60px;
     height: 60px;
     
@@ -68,7 +68,6 @@ main {
 .e-mail {
     position: relative;
     left: 85px;
-    top: 50px;
     font-size: 20px;
     font-family: 'Courier New', Courier, monospace;
 }

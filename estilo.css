@@ -137,7 +137,7 @@ main {
 }
 .nivel > h2 {
     position: relative;
-    top: 20px;
+    top: 10px;
     color: black;
 
 
@@ -146,7 +146,7 @@ main {
     width: 100%;
     background-color: black;
     position: relative;
-    top: 30px;
+    top: 20px;
     padding: 20px;
 }
 .skills {
@@ -191,7 +191,7 @@ main {
 .habilidades {
     font-family: 'Courier New', Courier, monospace;
     position: relative;
-    top: 90px;
+    top: 40px;
     text-align: center;
     font-size: 25px;
     background-color: rgb(203, 205, 206);
@@ -203,10 +203,10 @@ main {
     grid-template-columns: 1fr 1fr;
     width: 320px;
     height: 370px;
-    grid-gap: 20px;
+    grid-gap: 10px;
     margin: auto;
     position: relative;
-    top: 150px;
+    top: 60px;
       
 }
     /* section com divs */
@@ -251,6 +251,7 @@ main {
 
 .box-dois> p {
     color: white;
+    font-size: 20px;
 }
 /* até aqui */
 
@@ -270,6 +271,7 @@ main {
 
 .box-tres> p {
     color: white;
+    font-size: 20px;
 }
 /* até aqui */
 
@@ -289,6 +291,7 @@ main {
 
 .box-quatro> p {
     color: white;
+    font-size: 20px;
 }
 /* até aqui */
 
@@ -308,6 +311,7 @@ main {
 
 .box-cinco> p {
     color: white;
+    font-size: 20px;
 }
 /* até aqui */
 
@@ -327,6 +331,7 @@ main {
 
 .box-seis> p {
     color: white;
+    font-size: 20px;
 }
 /* até aqui */
 
