@@ -224,9 +224,6 @@ main {
     width: 130px;
     height: 130px;
 }
-#id1{
-    color: white;
-}
 
 .blue {
     color: rgb(58, 146, 234);
@@ -250,9 +247,6 @@ main {
     width: 130px;
     height: 130px;
 }
-#id2{
-    color: white;
-}
 
 .box-dois> p {
     color: white;
@@ -271,10 +265,6 @@ main {
     padding: 5px;
     width: 130px;
     height: 130px;
-}
-#id3{
-    
-    color: white;
 }
 
 .box-tres> p {
@@ -295,9 +285,6 @@ main {
     width: 130px;
     height: 130px;
 }
-#id4{
-    color: white;
-}
 
 .box-quatro> p {
     color: white;
@@ -317,12 +304,7 @@ main {
     width: 130px;
     height: 130px;
 }
-#id5{
-    color: white;
-}
-/* #mais5{
-    color: white;
-} */
+
 .box-cinco> p {
     color: white;
 }
@@ -340,10 +322,6 @@ main {
     padding: 5px;
     width: 130px;
     height: 130px;
-}
-#id6{
-    color: white;
-
 }
 
 .box-seis> p {
