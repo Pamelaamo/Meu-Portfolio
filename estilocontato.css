@@ -41,19 +41,31 @@ main {
     background-color: white;
     position: relative;
     top: 90px;
-    
+    /* padding: 30px; */
+    padding-bottom: 70px;
     
 }
 /* imagens dos icones */
 
 .icone1 {
     text-align: center;
-    
+   
+}
+
+.icone2 {
+    text-align: center;
+}
+
+.icone3 {
+    text-align: center;
+}
+
+.icone4 {
+    text-align: center;
 }
 #email {
-    text-align: center;
     position: relative;
-    top: 55px;
+    top: 10px;
     width: 60px;
     height: 60px;
     
@@ -61,8 +73,7 @@ main {
 
 #cel {
     position: relative;
-    left: 23px;
-    top: 30px;
+    top: 20px;
     width: 60px;
     height: 60px;
     
@@ -70,8 +81,7 @@ main {
 
 #git {
     position: relative;
-    left: 23px;
-    top: 25px;
+    top: 30px;
     width: 60px;
     height: 60px;
     
@@ -79,7 +89,6 @@ main {
 
 #linke {
     position: relative;
-    left: 23px;
     top: 40px;
     width: 60px;
     height: 60px;
@@ -89,28 +98,28 @@ main {
 /* paragrafos */
 .e-mail {
     position: relative;
-    top: 50px;
+    top: 10px;
     font-size: 15px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .celular {
     position: relative;
-    left: 90px;
+    top: 20px;
     font-size: 15px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .clique-git {
     position: relative;
-    left: 90px;
+    top: 30px;
     font-size: 15px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .clique-linke {
     position: relative;
-    left: 90px;
+    top: 40px;
     font-size: 15px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
