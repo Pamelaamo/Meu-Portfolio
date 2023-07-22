@@ -46,15 +46,13 @@ main {
 }
 /* imagens dos icones */
 
-.todos-icones > p {
-    
-    
+.icone1 {
+    text-align: center;
     
 }
 #email {
-    
+    text-align: center;
     position: relative;
-    left:px;
     top: 55px;
     width: 60px;
     height: 60px;
@@ -91,8 +89,7 @@ main {
 /* paragrafos */
 .e-mail {
     position: relative;
-    left: 85px;
-    top: 10px;
+    top: 50px;
     font-size: 15px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
