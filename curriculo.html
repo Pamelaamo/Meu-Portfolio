@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Página | Linkdin</title>
+    <title>Página | Currículo</title>
     <link rel="stylesheet" href="estilocurriculo.css">
 </head>
 <body>
@@ -24,16 +24,44 @@
 
     
         <section>
+
             <div>
-                <img src="" id="iconelinke">
-    
-                <p id="clique">
-                    <a href="https://www.linkedin.com/in/pamelaamorim08/" target="_blank">Clique aqui e acesse meu perfil do Linkedin</a>
-                </p>
+                <button id="btnDownload">Baixar Arquivo</button>
             </div>
 
         </section>
         
     </main>
+
+    <script>
+
+        function downloadImage() {
+      // Defina o URL da imagem que será baixada
+            const imageUrl = 'imagem-curriculo.png';
+
+      // Obtém o nome da imagem a partir do URL (opcional)
+            const imageName = imageUrl.split('/').pop();
+
+      // Cria um elemento de link oculto
+            const element = document.createElement('a');
+            element.setAttribute('href', imageUrl);
+            element.setAttribute('download', imageName);
+
+      // Anexa o elemento ao corpo da página (necessário para funcionar em alguns navegadores)
+            document.body.appendChild(element);
+
+            // Simula o clique no link para iniciar o download
+            element.click();
+
+            // Remove o elemento depois do download (opcional)
+            document.body.removeChild(element);
+    }
+
+    // Adiciona um evento de clique ao botão para chamar a função de downloadImage
+    document.getElementById('btnDownload').addEventListener('click', downloadImage);
+
+    </script>
+
+        
 </body>
 </html>
