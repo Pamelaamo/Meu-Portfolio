@@ -28,7 +28,7 @@ nav > a {
     transition-duration: .5s;
    
 }
- main {
+ /* main {
     background-color: white;
     width: 430px;
     height: 400px;
@@ -37,7 +37,22 @@ nav > a {
     top: 75px;
     
     
- }
+ } */
+
+#botao {
+    text-align: center;
+    position: relative;
+    top: 290px;
+}
+
+#btnDownload {
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    background-color: black;
+}
+
+
 
 h1 {
     background-color: black;
