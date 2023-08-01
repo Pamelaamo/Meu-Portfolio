@@ -26,7 +26,6 @@ nav > a {
     text-decoration: none;
     font-weight: bold;
     transition-duration: .5s;
-   
 }
 
 h1 {
@@ -62,6 +61,7 @@ main {
 .icone4 {
     text-align: center;
 }
+
 #email {
     position: relative;
     bottom: 30px;
