@@ -11,6 +11,7 @@
 body {
     background-color: #353740;
 }
+
 main {
     background-color: aliceblue;
     position: relative;
@@ -25,8 +26,7 @@ nav {
     text-align: center;
 }
 
-nav > a {
-   
+nav > a { 
     color: white;
     padding: 10px;
     text-decoration: none;
@@ -52,7 +52,7 @@ h1 {
         margin: auto;
         position: relative;
         right: 18px;
-        
+
 }
 
 .todosblocos {
