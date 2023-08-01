@@ -160,13 +160,11 @@ main {
     width: 50%;
     background-color: rgba(255, 68, 0, 0.548);
     color: white;
-    
-    
 }
+
 #html {
     color: white;
     padding: 5px;
-
 }
 
 .css {
@@ -174,16 +172,18 @@ main {
     background-color: rgba(7, 7, 209, 0.671);
     color: white;
 }
+
 #css {
     color: white;
     padding: 5px;
 }
+
 .js {
     width: 30%;
     background-color: rgba(209, 209, 21, 0.801);
     color: white;
-    
 }
+
 #js {
     color: white;
     padding: 5px;
@@ -230,6 +230,7 @@ main {
     color: rgb(58, 146, 234);
    
 }
+
 .box-um > p {
     color: white;
     font-size: 20px;
