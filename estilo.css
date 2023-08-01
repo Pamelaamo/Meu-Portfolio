@@ -34,7 +34,6 @@ header {
 } 
 
 header > p {
-    
     font-size: 1.2em;
     max-width: 600px;
     padding-right: 10px;
@@ -42,6 +41,7 @@ header > p {
     margin: auto;
     padding-bottom: 30px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.616);
+
 }
 
 /* minha imagem de perfil */
@@ -137,7 +137,7 @@ main {
 }
 .nivel > h2 {
     position: relative;
-    left: 5px        ;
+    left: 5px                         ;
     top: 10px;
     color: black;
 
