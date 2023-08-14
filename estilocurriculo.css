@@ -66,14 +66,13 @@ h1 {
     font-size: 5rem;
 }
 
- /* #iconelinke {
+#iconelinke {
     position: relative;
     left: 165px;
     top: 120px;
     width: 80px;
     background-color: rgb(95, 144, 209);
-    
- } */
+}
 
 #clique {
     text-align: center;
