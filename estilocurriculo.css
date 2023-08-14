@@ -45,9 +45,15 @@ nav > a {
     top: 290px;
 }
 
+img {
+    width: 100px;
+    height: 100px;
+    
+}
+
 #btnDownload {
     font-size: 30px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: white;
     background-color: black;
 }
@@ -60,14 +66,14 @@ h1 {
     font-size: 5rem;
 }
 
- #iconelinke {
+ /* #iconelinke {
     position: relative;
     left: 165px;
     top: 120px;
     width: 80px;
     background-color: rgb(95, 144, 209);
     
- }
+ } */
 
 #clique {
     text-align: center;
