@@ -64,6 +64,11 @@ h1 {
     font-size: 20px;
 }
 
+#cal {
+    color: white;
+    text-decoration: none;
+}
+
 .bloco1 {
     background-color: #353740;
 }
