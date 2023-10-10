@@ -69,6 +69,11 @@ h1 {
     text-decoration: none;
 }
 
+#log {
+    color: white;
+    text-decoration: none;
+}
+
 .bloco1 {
     background-color: #353740;
 }
