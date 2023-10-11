@@ -158,11 +158,23 @@ main {
 }
 
 #animaçao {
-    width: 50px;
-    height: 50px;
-    background-color: red;
     position: absolute;
+    
 }
+
+.coluna {
+    background-color: rgb(95, 179, 72);
+    width: 100px;
+    height: 400px;
+    margin: auto;
+    
+}
+
+.avata {
+    position: relative;
+    width: 100px;
+}
+
 
 /* .skills {
     padding-top: 8%;
