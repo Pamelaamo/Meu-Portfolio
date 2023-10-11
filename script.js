@@ -1,15 +1,18 @@
-// function myFunction(getElementById) {
-//     var dots = document.getElementById("mais" + getElementById);
-//     var moreText = document.getElementById("id" + getElementById);
-//     var btnText = document.getElementById("Btn" + getElementById);
-  
-//     if (dots.style.display === "none") {
-//       dots.style.display = "inline";
-//       btnText.innerHTML = "Leia mais";
-//       moreText.style.display = "none";
-//     } else {
-//       dots.style.display = "none";
-//       btnText.innerHTML = "Leia menos";
-//       moreText.style.display = "inline";
-//     }
-//   }
+
+var id = null;
+function movimento() {
+    var elem = document.getElementById("animaçao");
+    var pos = 0;
+    clearInterval(id);
+    id = setInterval(frame, 10);
+    function frame() {
+        if(pos == 350) {
+            clearInterval(id);
+        } else {
+            pos++;
+            elem.style.top = pos + 'px';
+            elem.style.left = pos + 'px';
+           
+        }
+    }
+}
