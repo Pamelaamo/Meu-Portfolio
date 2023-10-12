@@ -160,14 +160,15 @@ main {
 
 .coluna {
     background-color: rgb(95, 179, 72);
-    width: 100px;
+    width: 97px;
     height: 400px;
     margin: auto;
+    position: relative;
     
 }
 
 .avata {
-    position: relative;
+    position:absolute;
     width: 100px;
 }
 

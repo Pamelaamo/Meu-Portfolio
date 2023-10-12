@@ -6,7 +6,7 @@ function movimento() {
     clearInterval(id);
     id = setInterval(frame, 15);
     function frame() {
-        if(pos == 350) {
+        if(pos == 305) {
             clearInterval(id);
         } else {
             pos++;
