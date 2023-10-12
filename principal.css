@@ -149,17 +149,21 @@ main {
     padding: 20px;
 }
 
+.p {
+    text-align: center;
+    color: white;
+}
+
 #container-um {
     width: 400px;
     height: 400px;
     margin: auto;
     position: relative;
-    background-color: #353740;
+    background-image: url(arvo.jpg) ;
 }
 
 
 .coluna {
-    background-color: rgb(95, 179, 72);
     width: 97px;
     height: 400px;
     margin: auto;
