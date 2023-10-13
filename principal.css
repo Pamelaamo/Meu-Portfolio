@@ -182,45 +182,7 @@ main {
 }
 
 
-/* .skills {
-    padding-top: 8%;
-    padding-bottom: 8%;
-    text-align: right;
-    color: rgb(69, 12, 224);
-} */
 
-/* .html {
-    width: 50%;
-    background-color: rgba(255, 68, 0, 0.548);
-    color: white;
-}
-
-#html {
-    color: white;
-    padding: 5px;
-} */
-
-/* .css {
-    width: 40%;
-    background-color: rgba(7, 7, 209, 0.671);
-    color: white;
-}
-
-#css {
-    color: white;
-    padding: 5px;
-} */
-
-/* .js {
-    width: 30%;
-    background-color: rgba(209, 209, 21, 0.801);
-    color: white;
-}
-
-#js {
-    color: white;
-    padding: 5px;
-} */
 
 .habilidades {
     font-family: 'Courier New', Courier, monospace;
