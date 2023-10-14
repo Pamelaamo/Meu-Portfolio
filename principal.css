@@ -154,6 +154,10 @@ main {
     color: white;
 }
 
+#botao {
+    font-size: 25px;
+}
+
 #container-um {
     width: 400px;
     height: 400px;
@@ -181,9 +185,6 @@ main {
     width: 100px;
     right: 50px;
 }
-
-
-
 
 .habilidades {
     font-family: 'Courier New', Courier, monospace;
