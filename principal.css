@@ -156,6 +156,12 @@ main {
 
 #botao {
     font-size: 25px;
+    cursor: pointer;
+    outline: none;
+    background-color: rgba(128, 255, 0, 0.527);
+    color: white;
+    border-radius: 5px;
+    box-shadow: 9px;
 }
 
 #container-um {
