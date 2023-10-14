@@ -28,17 +28,7 @@ nav > a {
     transition-duration: .5s;
    
 }
- /* main {
-    background-color: white;
-    width: 430px;
-    height: 400px;
-    margin: auto;
-    position: relative;
-    top: 75px;
-    
-    
- } */
-
+ 
 #botao {
     text-align: center;
     position: relative;
@@ -46,12 +36,16 @@ nav > a {
 }
 
 img {
+    position: relative;
+    bottom: 130px;
     width: 100px;
     height: 100px;
     
 }
 
 #btnDownload {
+    position: relative;
+    bottom: 120px;
     font-size: 30px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: white;
