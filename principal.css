@@ -48,7 +48,8 @@ header > p {
 #minha-img {
     position: relative;
     bottom: 180px;
-    width: 350px;
+    height: 430px;
+    width: 400px;
     border-radius: 100%;
     
 }
